@@ -136,7 +136,7 @@
     <meta name="author" content="GTS Filters &amp; Systems (India) Pvt Ltd. ">
     <meta name="og:type" content="article">
     <meta name="og:title" content="<?php /*echo $PAGE_TITLE;*/ ?>">
-    <meta name="og:image" content="<?php /*echo $css_path;*/ ?>images/logo.png">
+    <meta name="og:image" content="<?php /*echo $css_path;*/ ?>{{asset('assets')}}/images/logo.png">
     <meta name="og:site_name" content="GTS Filters &amp; Systems (India) Pvt Ltd. ">
     <meta name="og:description" content="<?php /*echo $PAGE_META_DESC;*/ ?>">
     <meta name="twitter:card" content="summary">
